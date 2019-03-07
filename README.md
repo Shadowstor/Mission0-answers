@@ -1,2 +1,2 @@
-# ROsalind
+# Rosalind
 Answers
